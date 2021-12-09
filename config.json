@@ -1,0 +1,12 @@
+{
+ "TOKEN": "paste your bot token here",
+ "YOUTUBE_API_KEY": "paste your youtube api key here",
+  "SOUNDCLOUD_CLIENT_ID": "paste your soundcloud client id here(if you want your bot to play music via soundcloud)",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PREFIX": "!",
+  "LOCALE": "en",
+  "support_server": "your support server invite here",
+  "PRUNING": false,
+  "STAY_TIME": 60,
+  "DEFAULT_VOLUME": 100
+}
