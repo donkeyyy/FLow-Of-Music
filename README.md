@@ -8,7 +8,7 @@ Go to config.json file, then fill the necessary stuff.
 
 After you filled the necessary stuff in config.json, type `npm install` in the console, afterwards type `npm install discord.js`, afterwards type `node index.js` to start the bot.
 
-##Features
+## Features
 
 *  Playing music via song name
 
